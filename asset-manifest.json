@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/instatask/static/css/main.22fe27a3.css",
+    "main.js": "/instatask/static/js/main.ba682747.js",
+    "static/js/787.39bb0775.chunk.js": "/instatask/static/js/787.39bb0775.chunk.js",
+    "static/media/p-4.png": "/instatask/static/media/p-4.45f632f45d06af3ec451.png",
+    "static/media/p-11.png": "/instatask/static/media/p-11.19dc919857a07b3e6c7b.png",
+    "static/media/p-12.png": "/instatask/static/media/p-12.22823cb84af716907d06.png",
+    "static/media/p-2.png": "/instatask/static/media/p-2.dff63e7cacf9753d3f99.png",
+    "static/media/p1.png": "/instatask/static/media/p1.d6a3c7a482f3ebf75efc.png",
+    "static/media/p-10.png": "/instatask/static/media/p-10.81376caeb4fe9b2e6635.png",
+    "static/media/p-7.png": "/instatask/static/media/p-7.fe8150bae20f6456eddf.png",
+    "static/media/p-6.png": "/instatask/static/media/p-6.d56fb5d0baeedf8a098c.png",
+    "static/media/p-3.png": "/instatask/static/media/p-3.96bd6af3e8dff37becaf.png",
+    "static/media/p-5.png": "/instatask/static/media/p-5.8712cc916ad1b601f8bb.png",
+    "static/media/p-9.png": "/instatask/static/media/p-9.1420e8b60c4d5c49bce1.png",
+    "static/media/p-8.png": "/instatask/static/media/p-8.a29594e16858b6f2370a.png",
+    "static/media/bluetick.png": "/instatask/static/media/bluetick.accab255fd66b8c6f167.png",
+    "static/media/logo.png": "/instatask/static/media/logo.751fe9d37bc3aba0997f.png",
+    "static/media/logo.svg": "/instatask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/instatask/index.html",
+    "main.22fe27a3.css.map": "/instatask/static/css/main.22fe27a3.css.map",
+    "main.ba682747.js.map": "/instatask/static/js/main.ba682747.js.map",
+    "787.39bb0775.chunk.js.map": "/instatask/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22fe27a3.css",
+    "static/js/main.ba682747.js"
+  ]
+}
